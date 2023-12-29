@@ -67,10 +67,12 @@ insertion_sort(list_of_nums)
 ## Output:
 
 i)Selection Sort
-![output](image.png)
+![Screenshot 2023-12-29 173542](https://github.com/Raji1009/Sorting-Algorithm/assets/89059861/9b21af7a-8ad1-445c-b5e5-d951a951e519)
+
 
 ii)Insertion Sort
-![output](image-1.png)
+![Screenshot 2023-12-29 173639](https://github.com/Raji1009/Sorting-Algorithm/assets/89059861/ff4311e5-60c2-48bf-8a02-9aa3ce6c89af)
+
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
